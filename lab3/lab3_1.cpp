@@ -12,7 +12,6 @@ void pop();
 bool pop_all();
 void FileCreation();
 void fileInsert();
-//void finding(string name, double weight, string color, int cost, bool av);
 void finding(string index);
 
 
