@@ -147,8 +147,6 @@ bool push_back(struct Data data) {
 
 	temp = first;
 
-	bool exist = 0;
-
 	//Полученные данные сериализуем
 	char* new_seria = returnSeria(data);
 
